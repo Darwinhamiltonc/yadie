@@ -224,6 +224,12 @@
     box-shadow: 0 10px 24px rgba(122,82,48,.12);
   }
 
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+  }
   /* ---------- FINAL ---------- */
   .final{
     text-align:center;
